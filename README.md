@@ -15,6 +15,8 @@ Welcome to **Learn Rust**! This repository is designed to help me as Go develope
   - [Control Flows](./control-flows/)
   - [Collections](./collections/)
   - [Functions](./functions/)
+  - [OOP](./oop/)
+  - [Enums](./enums/)
   - And More Coming Soon!
 
 ### Introduction to Rust
